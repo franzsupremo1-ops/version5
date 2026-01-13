@@ -9,6 +9,7 @@ namespace Application.DTOs
 {
     public class AguaDTOs
     {
+        public Guid Id { get; set; }
         public string Zona { get; set; } = string.Empty;
         public int Valor { get; set; }
         public string Unidad { get; set; } = "m³";

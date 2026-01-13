@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zDdvbQuM/ts=",
+  "dgSpecHash": "RuLbS/0K7Aw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\DESARM\\Desktop\\UNIVERSIDAD TESIS\\MATERIA 3\\proyectos\\proyecto1 - copia - copia\\cleanproyecto\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\DESARM\\Desktop\\UNIVERSIDAD TESIS\\MATERIA 3\\proyectos\\proyecto1v4\\cleanproyecto\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DESARM\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\DESARM\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",

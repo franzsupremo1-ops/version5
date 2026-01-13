@@ -1,7 +1,10 @@
+using Application.Builders;
 using Application.Mapping;
+using Application.Strategies;
 using Application.UseCases;
 using Domain.Interfaces;
 using Infrastructure.Data;
+using Infrastructure.Decorators;
 using Infrastructure.Repositorios;
 using Microsoft.EntityFrameworkCore;
 
@@ -38,9 +41,25 @@ builder.Services.AddScoped<IReporte, ReporteRepositorio>();
 builder.Services.AddScoped<CrearUsuario>();
 builder.Services.AddScoped<CrearAgua>();
 
+//nbuilers
+builder.Services.AddTransient<AguaBuilder>();
+builder.Services.AddTransient<UsuarioBuilder>();
+//docorator crt+alt+o
+builder.Services.AddScoped<IAgua>(provider =>
+{
+    var context = provider.GetRequiredService<AppDbContext>();
+    var repo = new AguaRepositorio(context);
+    var logger = provider.GetRequiredService<ILogger<LoggingDecorator>>();
+    return new LoggingDecorator(repo, logger);
+});
 
-
-
+builder.Services.AddScoped<IUsuario>(provider =>
+{
+    var context = provider.GetRequiredService<AppDbContext>();
+    var repo = new UsuarioRepositorio(context);
+    var logger = provider.GetRequiredService<ILogger<LoggingUsuarioDecorator>>();
+    return new LoggingUsuarioDecorator(repo, logger);
+});
 
 
 builder.Services.AddControllers();

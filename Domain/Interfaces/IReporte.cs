@@ -11,5 +11,6 @@ namespace Domain.Interfaces
     {
         Task<IEnumerable<Agua>> All();  // ← AGUA completa
         Task<Agua> ObtenerId(Guid id);  // ← AGREGAR ESTE MÉTODO
+        
     }
 }

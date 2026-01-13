@@ -1,97 +1,145 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\DESARM\\Desktop\\UNIVERSIDAD TESIS\\MATERIA 3\\proyectos\\proyecto1 - copia - copia\\cleanproyecto\\",
+  "WorkspaceRootPath": "C:\\Users\\DESARM\\Desktop\\UNIVERSIDAD TESIS\\MATERIA 3\\proyectos\\proyecto1v4\\cleanproyecto\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebApi\\WebApi.csproj|c:\\users\\desarm\\desktop\\universidad tesis\\materia 3\\proyectos\\proyecto1 - copia - copia\\cleanproyecto\\webapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BE7BCF7E-72BD-764E-F30F-683CC763ECFA}|FrionendReact\\frionendreact.esproj|c:\\users\\desarm\\desktop\\universidad tesis\\materia 3\\proyectos\\proyecto1v4\\cleanproyecto\\frionendreact\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{BE7BCF7E-72BD-764E-F30F-683CC763ECFA}|FrionendReact\\frionendreact.esproj|solutionrelative:frionendreact\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebApi\\WebApi.csproj|c:\\users\\desarm\\desktop\\universidad tesis\\materia 3\\proyectos\\proyecto1 - copia - copia\\cleanproyecto\\webapi\\controllers\\reportecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\reportecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebApi\\WebApi.csproj|c:\\users\\desarm\\desktop\\universidad tesis\\materia 3\\proyectos\\proyecto1 - copia - copia\\cleanproyecto\\webapi\\controllers\\aguacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebApi\\WebApi.csproj|c:\\users\\desarm\\desktop\\universidad tesis\\materia 3\\proyectos\\proyecto1v4\\cleanproyecto\\webapi\\controllers\\aguacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\aguacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\desarm\\desktop\\universidad tesis\\materia 3\\proyectos\\proyecto1 - copia - copia\\cleanproyecto\\domain\\interfaces\\ireporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\ireporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebApi\\WebApi.csproj|c:\\users\\desarm\\desktop\\universidad tesis\\materia 3\\proyectos\\proyecto1v4\\cleanproyecto\\webapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|c:\\users\\desarm\\desktop\\universidad tesis\\materia 3\\proyectos\\proyecto1 - copia - copia\\cleanproyecto\\infrastructure\\repositorios\\reporterepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositorios\\reporterepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|c:\\users\\desarm\\desktop\\universidad tesis\\materia 3\\proyectos\\proyecto1 - copia - copia\\cleanproyecto\\infrastructure\\repositorios\\aguarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositorios\\aguarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|c:\\users\\desarm\\desktop\\universidad tesis\\materia 3\\proyectos\\proyecto1 - copia - copia\\cleanproyecto\\infrastructure\\repositorios\\usuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositorios\\usuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\desarm\\desktop\\universidad tesis\\materia 3\\proyectos\\proyecto1 - copia - copia\\cleanproyecto\\domain\\entities\\reporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\reporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\desarm\\desktop\\universidad tesis\\materia 3\\proyectos\\proyecto1 - copia - copia\\cleanproyecto\\domain\\interfaces\\iagua.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\iagua.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\desarm\\desktop\\universidad tesis\\materia 3\\proyectos\\proyecto1 - copia - copia\\cleanproyecto\\domain\\interfaces\\iusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\iusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\desarm\\desktop\\universidad tesis\\materia 3\\proyectos\\proyecto1 - copia - copia\\cleanproyecto\\domain\\entities\\agua.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\agua.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\users\\desarm\\desktop\\universidad tesis\\materia 3\\proyectos\\proyecto1 - copia - copia\\cleanproyecto\\application\\dtos\\usuariodtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\users\\desarm\\desktop\\universidad tesis\\materia 3\\proyectos\\proyecto1v4\\cleanproyecto\\application\\dtos\\usuariodtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\dtos\\usuariodtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\users\\desarm\\desktop\\universidad tesis\\materia 3\\proyectos\\proyecto1 - copia - copia\\cleanproyecto\\application\\dtos\\reportedtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\users\\desarm\\desktop\\universidad tesis\\materia 3\\proyectos\\proyecto1v4\\cleanproyecto\\application\\dtos\\reportedtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\dtos\\reportedtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\users\\desarm\\desktop\\universidad tesis\\materia 3\\proyectos\\proyecto1 - copia - copia\\cleanproyecto\\application\\dtos\\aguadtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\users\\desarm\\desktop\\universidad tesis\\materia 3\\proyectos\\proyecto1v4\\cleanproyecto\\application\\dtos\\aguadtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\dtos\\aguadtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|c:\\users\\desarm\\desktop\\universidad tesis\\materia 3\\proyectos\\proyecto1 - copia - copia\\cleanproyecto\\infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\users\\desarm\\desktop\\universidad tesis\\materia 3\\proyectos\\proyecto1 - copia - copia\\cleanproyecto\\application\\usecases\\crearagua.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\usecases\\crearagua.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\users\\desarm\\desktop\\universidad tesis\\materia 3\\proyectos\\proyecto1 - copia - copia\\cleanproyecto\\application\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\users\\desarm\\desktop\\universidad tesis\\materia 3\\proyectos\\proyecto1 - copia - copia\\cleanproyecto\\application\\usecases\\crearusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\usecases\\crearusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\desarm\\desktop\\universidad tesis\\materia 3\\proyectos\\proyecto1 - copia - copia\\cleanproyecto\\domain\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\desarm\\desktop\\universidad tesis\\materia 3\\proyectos\\proyecto1v4\\cleanproyecto\\domain\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebApi\\WebApi.csproj|c:\\users\\desarm\\desktop\\universidad tesis\\materia 3\\proyectos\\proyecto1 - copia - copia\\cleanproyecto\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\desarm\\desktop\\universidad tesis\\materia 3\\proyectos\\proyecto1v4\\cleanproyecto\\domain\\entities\\agua.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\agua.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\desarm\\desktop\\universidad tesis\\materia 3\\proyectos\\proyecto1v4\\cleanproyecto\\domain\\entities\\reporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\reporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\desarm\\desktop\\universidad tesis\\materia 3\\proyectos\\proyecto1v4\\cleanproyecto\\domain\\interfaces\\ireporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\ireporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|c:\\users\\desarm\\desktop\\universidad tesis\\materia 3\\proyectos\\proyecto1v4\\cleanproyecto\\infrastructure\\repositorios\\reporterepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositorios\\reporterepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|c:\\users\\desarm\\desktop\\universidad tesis\\materia 3\\proyectos\\proyecto1v4\\cleanproyecto\\infrastructure\\repositorios\\usuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositorios\\usuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|c:\\users\\desarm\\desktop\\universidad tesis\\materia 3\\proyectos\\proyecto1v4\\cleanproyecto\\infrastructure\\repositorios\\aguarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositorios\\aguarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebApi\\WebApi.csproj|c:\\users\\desarm\\desktop\\universidad tesis\\materia 3\\proyectos\\proyecto1v4\\cleanproyecto\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebApi\\WebApi.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebApi\\WebApi.csproj|c:\\users\\desarm\\desktop\\universidad tesis\\materia 3\\proyectos\\proyecto1 - copia - copia\\cleanproyecto\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebApi\\WebApi.csproj|c:\\users\\desarm\\desktop\\universidad tesis\\materia 3\\proyectos\\proyecto1v4\\cleanproyecto\\webapi\\controllers\\reportecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\reportecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE7BCF7E-72BD-764E-F30F-683CC763ECFA}|FrionendReact\\frionendreact.esproj|c:\\users\\desarm\\desktop\\universidad tesis\\materia 3\\proyectos\\proyecto1v4\\cleanproyecto\\frionendreact\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BE7BCF7E-72BD-764E-F30F-683CC763ECFA}|FrionendReact\\frionendreact.esproj|solutionrelative:frionendreact\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebApi\\WebApi.csproj|c:\\users\\desarm\\desktop\\universidad tesis\\materia 3\\proyectos\\proyecto1v4\\cleanproyecto\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebApi\\WebApi.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\desarm\\desktop\\universidad tesis\\materia 3\\proyectos\\proyecto1 - copia - copia\\cleanproyecto\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|c:\\users\\desarm\\desktop\\universidad tesis\\materia 3\\proyectos\\proyecto1v4\\cleanproyecto\\infrastructure\\decorators\\loggingusuariodecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\decorators\\loggingusuariodecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|c:\\users\\desarm\\desktop\\universidad tesis\\materia 3\\proyectos\\proyecto1v4\\cleanproyecto\\infrastructure\\decorators\\loggingdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\decorators\\loggingdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|c:\\users\\desarm\\desktop\\universidad tesis\\materia 3\\proyectos\\proyecto1v4\\cleanproyecto\\infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\desarm\\desktop\\universidad tesis\\materia 3\\proyectos\\proyecto1v4\\cleanproyecto\\domain\\interfaces\\iusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\iusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\desarm\\desktop\\universidad tesis\\materia 3\\proyectos\\proyecto1v4\\cleanproyecto\\domain\\interfaces\\iagua.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\iagua.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\users\\desarm\\desktop\\universidad tesis\\materia 3\\proyectos\\proyecto1v4\\cleanproyecto\\application\\usecases\\crearusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\usecases\\crearusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\users\\desarm\\desktop\\universidad tesis\\materia 3\\proyectos\\proyecto1v4\\cleanproyecto\\application\\usecases\\crearagua.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\usecases\\crearagua.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\users\\desarm\\desktop\\universidad tesis\\materia 3\\proyectos\\proyecto1v4\\cleanproyecto\\application\\strategies\\zonadefaultstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\strategies\\zonadefaultstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\users\\desarm\\desktop\\universidad tesis\\materia 3\\proyectos\\proyecto1v4\\cleanproyecto\\application\\strategies\\usuariostrategyfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\strategies\\usuariostrategyfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\users\\desarm\\desktop\\universidad tesis\\materia 3\\proyectos\\proyecto1v4\\cleanproyecto\\application\\strategies\\ivalidacionusuariostrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\strategies\\ivalidacionusuariostrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\users\\desarm\\desktop\\universidad tesis\\materia 3\\proyectos\\proyecto1v4\\cleanproyecto\\application\\strategies\\ivalidacionaguastrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\strategies\\ivalidacionaguastrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\users\\desarm\\desktop\\universidad tesis\\materia 3\\proyectos\\proyecto1v4\\cleanproyecto\\application\\strategies\\gerentestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\strategies\\gerentestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\users\\desarm\\desktop\\universidad tesis\\materia 3\\proyectos\\proyecto1v4\\cleanproyecto\\application\\strategies\\clientestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\strategies\\clientestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\users\\desarm\\desktop\\universidad tesis\\materia 3\\proyectos\\proyecto1v4\\cleanproyecto\\application\\strategies\\aguastrategyfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\strategies\\aguastrategyfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\users\\desarm\\desktop\\universidad tesis\\materia 3\\proyectos\\proyecto1v4\\cleanproyecto\\application\\strategies\\adminstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\strategies\\adminstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\users\\desarm\\desktop\\universidad tesis\\materia 3\\proyectos\\proyecto1v4\\cleanproyecto\\application\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\desarm\\desktop\\universidad tesis\\materia 3\\proyectos\\proyecto1v4\\cleanproyecto\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|c:\\users\\desarm\\desktop\\universidad tesis\\materia 3\\proyectos\\proyecto1 - copia - copia\\cleanproyecto\\infrastructure\\migrations\\20260102033135_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|c:\\users\\desarm\\desktop\\universidad tesis\\materia 3\\proyectos\\proyecto1v4\\cleanproyecto\\infrastructure\\migrations\\20260102033135_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\migrations\\20260102033135_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -102,283 +150,457 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AguaController.cs",
-              "DocumentMoniker": "C:\\Users\\DESARM\\Desktop\\UNIVERSIDAD TESIS\\MATERIA 3\\proyectos\\proyecto1 - copia - copia\\cleanproyecto\\WebApi\\Controllers\\AguaController.cs",
-              "RelativeDocumentMoniker": "WebApi\\Controllers\\AguaController.cs",
-              "ToolTip": "C:\\Users\\DESARM\\Desktop\\UNIVERSIDAD TESIS\\MATERIA 3\\proyectos\\proyecto1 - copia - copia\\cleanproyecto\\WebApi\\Controllers\\AguaController.cs",
-              "RelativeToolTip": "WebApi\\Controllers\\AguaController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFoAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "AguaDTOs.cs",
+              "DocumentMoniker": "C:\\Users\\DESARM\\Desktop\\UNIVERSIDAD TESIS\\MATERIA 3\\proyectos\\proyecto1v4\\cleanproyecto\\Application\\DTOs\\AguaDTOs.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\AguaDTOs.cs",
+              "ToolTip": "C:\\Users\\DESARM\\Desktop\\UNIVERSIDAD TESIS\\MATERIA 3\\proyectos\\proyecto1v4\\cleanproyecto\\Application\\DTOs\\AguaDTOs.cs",
+              "RelativeToolTip": "Application\\DTOs\\AguaDTOs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-02T03:22:59.443Z",
+              "WhenOpened": "2026-01-02T02:44:01.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReporteDTOs.cs",
+              "DocumentMoniker": "C:\\Users\\DESARM\\Desktop\\UNIVERSIDAD TESIS\\MATERIA 3\\proyectos\\proyecto1v4\\cleanproyecto\\Application\\DTOs\\ReporteDTOs.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\ReporteDTOs.cs",
+              "ToolTip": "C:\\Users\\DESARM\\Desktop\\UNIVERSIDAD TESIS\\MATERIA 3\\proyectos\\proyecto1v4\\cleanproyecto\\Application\\DTOs\\ReporteDTOs.cs",
+              "RelativeToolTip": "Application\\DTOs\\ReporteDTOs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T02:44:45.956Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Reporte.cs",
-              "DocumentMoniker": "C:\\Users\\DESARM\\Desktop\\UNIVERSIDAD TESIS\\MATERIA 3\\proyectos\\proyecto1 - copia - copia\\cleanproyecto\\Domain\\Entities\\Reporte.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\Reporte.cs",
-              "ToolTip": "C:\\Users\\DESARM\\Desktop\\UNIVERSIDAD TESIS\\MATERIA 3\\proyectos\\proyecto1 - copia - copia\\cleanproyecto\\Domain\\Entities\\Reporte.cs",
-              "RelativeToolTip": "Domain\\Entities\\Reporte.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Agua.cs",
+              "DocumentMoniker": "C:\\Users\\DESARM\\Desktop\\UNIVERSIDAD TESIS\\MATERIA 3\\proyectos\\proyecto1v4\\cleanproyecto\\Domain\\Entities\\Agua.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Agua.cs",
+              "ToolTip": "C:\\Users\\DESARM\\Desktop\\UNIVERSIDAD TESIS\\MATERIA 3\\proyectos\\proyecto1v4\\cleanproyecto\\Domain\\Entities\\Agua.cs",
+              "RelativeToolTip": "Domain\\Entities\\Agua.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-02T02:09:53.769Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ReporteRepositorio.cs",
-              "DocumentMoniker": "C:\\Users\\DESARM\\Desktop\\UNIVERSIDAD TESIS\\MATERIA 3\\proyectos\\proyecto1 - copia - copia\\cleanproyecto\\Infrastructure\\Repositorios\\ReporteRepositorio.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Repositorios\\ReporteRepositorio.cs",
-              "ToolTip": "C:\\Users\\DESARM\\Desktop\\UNIVERSIDAD TESIS\\MATERIA 3\\proyectos\\proyecto1 - copia - copia\\cleanproyecto\\Infrastructure\\Repositorios\\ReporteRepositorio.cs",
-              "RelativeToolTip": "Infrastructure\\Repositorios\\ReporteRepositorio.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-02T03:14:35.408Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UsuarioRepositorio.cs",
-              "DocumentMoniker": "C:\\Users\\DESARM\\Desktop\\UNIVERSIDAD TESIS\\MATERIA 3\\proyectos\\proyecto1 - copia - copia\\cleanproyecto\\Infrastructure\\Repositorios\\UsuarioRepositorio.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Repositorios\\UsuarioRepositorio.cs",
-              "ToolTip": "C:\\Users\\DESARM\\Desktop\\UNIVERSIDAD TESIS\\MATERIA 3\\proyectos\\proyecto1 - copia - copia\\cleanproyecto\\Infrastructure\\Repositorios\\UsuarioRepositorio.cs",
-              "RelativeToolTip": "Infrastructure\\Repositorios\\UsuarioRepositorio.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAA1wBoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-02T03:11:16.103Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ReporteController.cs",
-              "DocumentMoniker": "C:\\Users\\DESARM\\Desktop\\UNIVERSIDAD TESIS\\MATERIA 3\\proyectos\\proyecto1 - copia - copia\\cleanproyecto\\WebApi\\Controllers\\ReporteController.cs",
-              "RelativeDocumentMoniker": "WebApi\\Controllers\\ReporteController.cs",
-              "ToolTip": "C:\\Users\\DESARM\\Desktop\\UNIVERSIDAD TESIS\\MATERIA 3\\proyectos\\proyecto1 - copia - copia\\cleanproyecto\\WebApi\\Controllers\\ReporteController.cs",
-              "RelativeToolTip": "WebApi\\Controllers\\ReporteController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-02T03:23:26.009Z",
+              "WhenOpened": "2026-01-02T02:11:08.108Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\DESARM\\Desktop\\UNIVERSIDAD TESIS\\MATERIA 3\\proyectos\\proyecto1v4\\cleanproyecto\\Domain\\Entities\\Usuario.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Usuario.cs",
+              "ToolTip": "C:\\Users\\DESARM\\Desktop\\UNIVERSIDAD TESIS\\MATERIA 3\\proyectos\\proyecto1v4\\cleanproyecto\\Domain\\Entities\\Usuario.cs",
+              "RelativeToolTip": "Domain\\Entities\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T02:09:46.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsuarioDTOs.cs",
+              "DocumentMoniker": "C:\\Users\\DESARM\\Desktop\\UNIVERSIDAD TESIS\\MATERIA 3\\proyectos\\proyecto1v4\\cleanproyecto\\Application\\DTOs\\UsuarioDTOs.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\UsuarioDTOs.cs",
+              "ToolTip": "C:\\Users\\DESARM\\Desktop\\UNIVERSIDAD TESIS\\MATERIA 3\\proyectos\\proyecto1v4\\cleanproyecto\\Application\\DTOs\\UsuarioDTOs.cs",
+              "RelativeToolTip": "Application\\DTOs\\UsuarioDTOs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T02:44:20.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "UsuarioController.cs",
-              "DocumentMoniker": "C:\\Users\\DESARM\\Desktop\\UNIVERSIDAD TESIS\\MATERIA 3\\proyectos\\proyecto1 - copia - copia\\cleanproyecto\\WebApi\\Controllers\\UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\DESARM\\Desktop\\UNIVERSIDAD TESIS\\MATERIA 3\\proyectos\\proyecto1v4\\cleanproyecto\\WebApi\\Controllers\\UsuarioController.cs",
               "RelativeDocumentMoniker": "WebApi\\Controllers\\UsuarioController.cs",
-              "ToolTip": "C:\\Users\\DESARM\\Desktop\\UNIVERSIDAD TESIS\\MATERIA 3\\proyectos\\proyecto1 - copia - copia\\cleanproyecto\\WebApi\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\DESARM\\Desktop\\UNIVERSIDAD TESIS\\MATERIA 3\\proyectos\\proyecto1v4\\cleanproyecto\\WebApi\\Controllers\\UsuarioController.cs",
               "RelativeToolTip": "WebApi\\Controllers\\UsuarioController.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAAA7wFoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADQAAAAAAAAAAAAkwF4AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-02T03:22:15.406Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AguaRepositorio.cs",
-              "DocumentMoniker": "C:\\Users\\DESARM\\Desktop\\UNIVERSIDAD TESIS\\MATERIA 3\\proyectos\\proyecto1 - copia - copia\\cleanproyecto\\Infrastructure\\Repositorios\\AguaRepositorio.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Repositorios\\AguaRepositorio.cs",
-              "ToolTip": "C:\\Users\\DESARM\\Desktop\\UNIVERSIDAD TESIS\\MATERIA 3\\proyectos\\proyecto1 - copia - copia\\cleanproyecto\\Infrastructure\\Repositorios\\AguaRepositorio.cs",
-              "RelativeToolTip": "Infrastructure\\Repositorios\\AguaRepositorio.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAwAAAAmAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "AguaController.cs",
+              "DocumentMoniker": "C:\\Users\\DESARM\\Desktop\\UNIVERSIDAD TESIS\\MATERIA 3\\proyectos\\proyecto1v4\\cleanproyecto\\WebApi\\Controllers\\AguaController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\AguaController.cs",
+              "ToolTip": "C:\\Users\\DESARM\\Desktop\\UNIVERSIDAD TESIS\\MATERIA 3\\proyectos\\proyecto1v4\\cleanproyecto\\WebApi\\Controllers\\AguaController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\AguaController.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-02T03:13:29.714Z"
+              "WhenOpened": "2026-01-02T03:22:59.443Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "App.jsx",
+              "DocumentMoniker": "C:\\Users\\DESARM\\Desktop\\UNIVERSIDAD TESIS\\MATERIA 3\\proyectos\\proyecto1v4\\cleanproyecto\\frionendreact\\src\\App.jsx",
+              "RelativeDocumentMoniker": "frionendreact\\src\\App.jsx",
+              "ToolTip": "C:\\Users\\DESARM\\Desktop\\UNIVERSIDAD TESIS\\MATERIA 3\\proyectos\\proyecto1v4\\cleanproyecto\\frionendreact\\src\\App.jsx",
+              "RelativeToolTip": "frionendreact\\src\\App.jsx",
+              "ViewState": "AgIAACUBAAAAAAAAAAAAwOAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-01-13T12:48:29.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Reporte.cs",
+              "DocumentMoniker": "C:\\Users\\DESARM\\Desktop\\UNIVERSIDAD TESIS\\MATERIA 3\\proyectos\\proyecto1v4\\cleanproyecto\\Domain\\Entities\\Reporte.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Reporte.cs",
+              "ToolTip": "C:\\Users\\DESARM\\Desktop\\UNIVERSIDAD TESIS\\MATERIA 3\\proyectos\\proyecto1v4\\cleanproyecto\\Domain\\Entities\\Reporte.cs",
+              "RelativeToolTip": "Domain\\Entities\\Reporte.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T02:09:53.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "IReporte.cs",
-              "DocumentMoniker": "C:\\Users\\DESARM\\Desktop\\UNIVERSIDAD TESIS\\MATERIA 3\\proyectos\\proyecto1 - copia - copia\\cleanproyecto\\Domain\\Interfaces\\IReporte.cs",
+              "DocumentMoniker": "C:\\Users\\DESARM\\Desktop\\UNIVERSIDAD TESIS\\MATERIA 3\\proyectos\\proyecto1v4\\cleanproyecto\\Domain\\Interfaces\\IReporte.cs",
               "RelativeDocumentMoniker": "Domain\\Interfaces\\IReporte.cs",
-              "ToolTip": "C:\\Users\\DESARM\\Desktop\\UNIVERSIDAD TESIS\\MATERIA 3\\proyectos\\proyecto1 - copia - copia\\cleanproyecto\\Domain\\Interfaces\\IReporte.cs",
+              "ToolTip": "C:\\Users\\DESARM\\Desktop\\UNIVERSIDAD TESIS\\MATERIA 3\\proyectos\\proyecto1v4\\cleanproyecto\\Domain\\Interfaces\\IReporte.cs",
               "RelativeToolTip": "Domain\\Interfaces\\IReporte.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-02T02:15:41.553Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IAgua.cs",
-              "DocumentMoniker": "C:\\Users\\DESARM\\Desktop\\UNIVERSIDAD TESIS\\MATERIA 3\\proyectos\\proyecto1 - copia - copia\\cleanproyecto\\Domain\\Interfaces\\IAgua.cs",
-              "RelativeDocumentMoniker": "Domain\\Interfaces\\IAgua.cs",
-              "ToolTip": "C:\\Users\\DESARM\\Desktop\\UNIVERSIDAD TESIS\\MATERIA 3\\proyectos\\proyecto1 - copia - copia\\cleanproyecto\\Domain\\Interfaces\\IAgua.cs",
-              "RelativeToolTip": "Domain\\Interfaces\\IAgua.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-02T02:15:56.902Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IUsuario.cs",
-              "DocumentMoniker": "C:\\Users\\DESARM\\Desktop\\UNIVERSIDAD TESIS\\MATERIA 3\\proyectos\\proyecto1 - copia - copia\\cleanproyecto\\Domain\\Interfaces\\IUsuario.cs",
-              "RelativeDocumentMoniker": "Domain\\Interfaces\\IUsuario.cs",
-              "ToolTip": "C:\\Users\\DESARM\\Desktop\\UNIVERSIDAD TESIS\\MATERIA 3\\proyectos\\proyecto1 - copia - copia\\cleanproyecto\\Domain\\Interfaces\\IUsuario.cs",
-              "RelativeToolTip": "Domain\\Interfaces\\IUsuario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-02T02:15:17.036Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "Agua.cs",
-              "DocumentMoniker": "C:\\Users\\DESARM\\Desktop\\UNIVERSIDAD TESIS\\MATERIA 3\\proyectos\\proyecto1 - copia - copia\\cleanproyecto\\Domain\\Entities\\Agua.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\Agua.cs",
-              "ToolTip": "C:\\Users\\DESARM\\Desktop\\UNIVERSIDAD TESIS\\MATERIA 3\\proyectos\\proyecto1 - copia - copia\\cleanproyecto\\Domain\\Entities\\Agua.cs",
-              "RelativeToolTip": "Domain\\Entities\\Agua.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "ReporteRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\DESARM\\Desktop\\UNIVERSIDAD TESIS\\MATERIA 3\\proyectos\\proyecto1v4\\cleanproyecto\\Infrastructure\\Repositorios\\ReporteRepositorio.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositorios\\ReporteRepositorio.cs",
+              "ToolTip": "C:\\Users\\DESARM\\Desktop\\UNIVERSIDAD TESIS\\MATERIA 3\\proyectos\\proyecto1v4\\cleanproyecto\\Infrastructure\\Repositorios\\ReporteRepositorio.cs",
+              "RelativeToolTip": "Infrastructure\\Repositorios\\ReporteRepositorio.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-02T02:11:08.108Z"
+              "WhenOpened": "2026-01-02T03:14:35.408Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "UsuarioDTOs.cs",
-              "DocumentMoniker": "C:\\Users\\DESARM\\Desktop\\UNIVERSIDAD TESIS\\MATERIA 3\\proyectos\\proyecto1 - copia - copia\\cleanproyecto\\Application\\DTOs\\UsuarioDTOs.cs",
-              "RelativeDocumentMoniker": "Application\\DTOs\\UsuarioDTOs.cs",
-              "ToolTip": "C:\\Users\\DESARM\\Desktop\\UNIVERSIDAD TESIS\\MATERIA 3\\proyectos\\proyecto1 - copia - copia\\cleanproyecto\\Application\\DTOs\\UsuarioDTOs.cs",
-              "RelativeToolTip": "Application\\DTOs\\UsuarioDTOs.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "UsuarioRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\DESARM\\Desktop\\UNIVERSIDAD TESIS\\MATERIA 3\\proyectos\\proyecto1v4\\cleanproyecto\\Infrastructure\\Repositorios\\UsuarioRepositorio.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositorios\\UsuarioRepositorio.cs",
+              "ToolTip": "C:\\Users\\DESARM\\Desktop\\UNIVERSIDAD TESIS\\MATERIA 3\\proyectos\\proyecto1v4\\cleanproyecto\\Infrastructure\\Repositorios\\UsuarioRepositorio.cs",
+              "RelativeToolTip": "Infrastructure\\Repositorios\\UsuarioRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-02T02:44:20.941Z"
+              "WhenOpened": "2026-01-02T03:11:16.103Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "ReporteDTOs.cs",
-              "DocumentMoniker": "C:\\Users\\DESARM\\Desktop\\UNIVERSIDAD TESIS\\MATERIA 3\\proyectos\\proyecto1 - copia - copia\\cleanproyecto\\Application\\DTOs\\ReporteDTOs.cs",
-              "RelativeDocumentMoniker": "Application\\DTOs\\ReporteDTOs.cs",
-              "ToolTip": "C:\\Users\\DESARM\\Desktop\\UNIVERSIDAD TESIS\\MATERIA 3\\proyectos\\proyecto1 - copia - copia\\cleanproyecto\\Application\\DTOs\\ReporteDTOs.cs",
-              "RelativeToolTip": "Application\\DTOs\\ReporteDTOs.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
+              "Title": "AguaRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\DESARM\\Desktop\\UNIVERSIDAD TESIS\\MATERIA 3\\proyectos\\proyecto1v4\\cleanproyecto\\Infrastructure\\Repositorios\\AguaRepositorio.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositorios\\AguaRepositorio.cs",
+              "ToolTip": "C:\\Users\\DESARM\\Desktop\\UNIVERSIDAD TESIS\\MATERIA 3\\proyectos\\proyecto1v4\\cleanproyecto\\Infrastructure\\Repositorios\\AguaRepositorio.cs",
+              "RelativeToolTip": "Infrastructure\\Repositorios\\AguaRepositorio.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAIAzwCgAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-02T02:44:45.956Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "AguaDTOs.cs",
-              "DocumentMoniker": "C:\\Users\\DESARM\\Desktop\\UNIVERSIDAD TESIS\\MATERIA 3\\proyectos\\proyecto1 - copia - copia\\cleanproyecto\\Application\\DTOs\\AguaDTOs.cs",
-              "RelativeDocumentMoniker": "Application\\DTOs\\AguaDTOs.cs",
-              "ToolTip": "C:\\Users\\DESARM\\Desktop\\UNIVERSIDAD TESIS\\MATERIA 3\\proyectos\\proyecto1 - copia - copia\\cleanproyecto\\Application\\DTOs\\AguaDTOs.cs",
-              "RelativeToolTip": "Application\\DTOs\\AguaDTOs.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-02T02:44:01.907Z"
+              "WhenOpened": "2026-01-02T03:13:29.714Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\DESARM\\Desktop\\UNIVERSIDAD TESIS\\MATERIA 3\\proyectos\\proyecto1 - copia - copia\\cleanproyecto\\Infrastructure\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\DESARM\\Desktop\\UNIVERSIDAD TESIS\\MATERIA 3\\proyectos\\proyecto1 - copia - copia\\cleanproyecto\\Infrastructure\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "Infrastructure\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
+              "Title": "ReporteController.cs",
+              "DocumentMoniker": "C:\\Users\\DESARM\\Desktop\\UNIVERSIDAD TESIS\\MATERIA 3\\proyectos\\proyecto1v4\\cleanproyecto\\WebApi\\Controllers\\ReporteController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\ReporteController.cs",
+              "ToolTip": "C:\\Users\\DESARM\\Desktop\\UNIVERSIDAD TESIS\\MATERIA 3\\proyectos\\proyecto1v4\\cleanproyecto\\WebApi\\Controllers\\ReporteController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\ReporteController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-02T03:00:49.174Z"
+              "WhenOpened": "2026-01-02T03:23:26.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DESARM\\Desktop\\UNIVERSIDAD TESIS\\MATERIA 3\\proyectos\\proyecto1v4\\cleanproyecto\\WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\DESARM\\Desktop\\UNIVERSIDAD TESIS\\MATERIA 3\\proyectos\\proyecto1v4\\cleanproyecto\\WebApi\\Program.cs",
+              "RelativeToolTip": "WebApi\\Program.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAMwFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T03:26:46.396Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "CrearAgua.cs",
-              "DocumentMoniker": "C:\\Users\\DESARM\\Desktop\\UNIVERSIDAD TESIS\\MATERIA 3\\proyectos\\proyecto1 - copia - copia\\cleanproyecto\\Application\\UseCases\\CrearAgua.cs",
-              "RelativeDocumentMoniker": "Application\\UseCases\\CrearAgua.cs",
-              "ToolTip": "C:\\Users\\DESARM\\Desktop\\UNIVERSIDAD TESIS\\MATERIA 3\\proyectos\\proyecto1 - copia - copia\\cleanproyecto\\Application\\UseCases\\CrearAgua.cs",
-              "RelativeToolTip": "Application\\UseCases\\CrearAgua.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-02T02:57:56.634Z"
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\DESARM\\Desktop\\UNIVERSIDAD TESIS\\MATERIA 3\\proyectos\\proyecto1v4\\cleanproyecto\\frionendreact\\package.json",
+              "RelativeDocumentMoniker": "frionendreact\\package.json",
+              "ToolTip": "C:\\Users\\DESARM\\Desktop\\UNIVERSIDAD TESIS\\MATERIA 3\\proyectos\\proyecto1v4\\cleanproyecto\\frionendreact\\package.json",
+              "RelativeToolTip": "frionendreact\\package.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-13T12:43:39.009Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "MappingProfile.cs",
-              "DocumentMoniker": "C:\\Users\\DESARM\\Desktop\\UNIVERSIDAD TESIS\\MATERIA 3\\proyectos\\proyecto1 - copia - copia\\cleanproyecto\\Application\\Mapping\\MappingProfile.cs",
-              "RelativeDocumentMoniker": "Application\\Mapping\\MappingProfile.cs",
-              "ToolTip": "C:\\Users\\DESARM\\Desktop\\UNIVERSIDAD TESIS\\MATERIA 3\\proyectos\\proyecto1 - copia - copia\\cleanproyecto\\Application\\Mapping\\MappingProfile.cs",
-              "RelativeToolTip": "Application\\Mapping\\MappingProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-02T02:49:06.061Z"
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DESARM\\Desktop\\UNIVERSIDAD TESIS\\MATERIA 3\\proyectos\\proyecto1v4\\cleanproyecto\\WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\DESARM\\Desktop\\UNIVERSIDAD TESIS\\MATERIA 3\\proyectos\\proyecto1v4\\cleanproyecto\\WebApi\\appsettings.json",
+              "RelativeToolTip": "WebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-02T03:25:25.515Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
-              "Title": "CrearUsuario.cs",
-              "DocumentMoniker": "C:\\Users\\DESARM\\Desktop\\UNIVERSIDAD TESIS\\MATERIA 3\\proyectos\\proyecto1 - copia - copia\\cleanproyecto\\Application\\UseCases\\CrearUsuario.cs",
-              "RelativeDocumentMoniker": "Application\\UseCases\\CrearUsuario.cs",
-              "ToolTip": "C:\\Users\\DESARM\\Desktop\\UNIVERSIDAD TESIS\\MATERIA 3\\proyectos\\proyecto1 - copia - copia\\cleanproyecto\\Application\\UseCases\\CrearUsuario.cs",
-              "RelativeToolTip": "Application\\UseCases\\CrearUsuario.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
+              "Title": "LoggingUsuarioDecorator.cs",
+              "DocumentMoniker": "C:\\Users\\DESARM\\Desktop\\UNIVERSIDAD TESIS\\MATERIA 3\\proyectos\\proyecto1v4\\cleanproyecto\\Infrastructure\\Decorators\\LoggingUsuarioDecorator.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Decorators\\LoggingUsuarioDecorator.cs",
+              "ToolTip": "C:\\Users\\DESARM\\Desktop\\UNIVERSIDAD TESIS\\MATERIA 3\\proyectos\\proyecto1v4\\cleanproyecto\\Infrastructure\\Decorators\\LoggingUsuarioDecorator.cs",
+              "RelativeToolTip": "Infrastructure\\Decorators\\LoggingUsuarioDecorator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-02T02:57:49.929Z"
+              "WhenOpened": "2026-01-12T20:43:21.268Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 18,
-              "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\DESARM\\Desktop\\UNIVERSIDAD TESIS\\MATERIA 3\\proyectos\\proyecto1 - copia - copia\\cleanproyecto\\Domain\\Entities\\Usuario.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\Usuario.cs",
-              "ToolTip": "C:\\Users\\DESARM\\Desktop\\UNIVERSIDAD TESIS\\MATERIA 3\\proyectos\\proyecto1 - copia - copia\\cleanproyecto\\Domain\\Entities\\Usuario.cs",
-              "RelativeToolTip": "Domain\\Entities\\Usuario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Title": "LoggingDecorator.cs",
+              "DocumentMoniker": "C:\\Users\\DESARM\\Desktop\\UNIVERSIDAD TESIS\\MATERIA 3\\proyectos\\proyecto1v4\\cleanproyecto\\Infrastructure\\Decorators\\LoggingDecorator.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Decorators\\LoggingDecorator.cs",
+              "ToolTip": "C:\\Users\\DESARM\\Desktop\\UNIVERSIDAD TESIS\\MATERIA 3\\proyectos\\proyecto1v4\\cleanproyecto\\Infrastructure\\Decorators\\LoggingDecorator.cs",
+              "RelativeToolTip": "Infrastructure\\Decorators\\LoggingDecorator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-02T02:09:46.389Z"
+              "WhenOpened": "2026-01-12T20:43:45.283Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\DESARM\\Desktop\\UNIVERSIDAD TESIS\\MATERIA 3\\proyectos\\proyecto1 - copia - copia\\cleanproyecto\\WebApi\\Program.cs",
-              "RelativeDocumentMoniker": "WebApi\\Program.cs",
-              "ToolTip": "C:\\Users\\DESARM\\Desktop\\UNIVERSIDAD TESIS\\MATERIA 3\\proyectos\\proyecto1 - copia - copia\\cleanproyecto\\WebApi\\Program.cs",
-              "RelativeToolTip": "WebApi\\Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\DESARM\\Desktop\\UNIVERSIDAD TESIS\\MATERIA 3\\proyectos\\proyecto1v4\\cleanproyecto\\Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\DESARM\\Desktop\\UNIVERSIDAD TESIS\\MATERIA 3\\proyectos\\proyecto1v4\\cleanproyecto\\Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-02T03:26:46.396Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "20260102033135_Inicial.cs",
-              "DocumentMoniker": "C:\\Users\\DESARM\\Desktop\\UNIVERSIDAD TESIS\\MATERIA 3\\proyectos\\proyecto1 - copia - copia\\cleanproyecto\\Infrastructure\\Migrations\\20260102033135_Inicial.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20260102033135_Inicial.cs",
-              "ToolTip": "C:\\Users\\DESARM\\Desktop\\UNIVERSIDAD TESIS\\MATERIA 3\\proyectos\\proyecto1 - copia - copia\\cleanproyecto\\Infrastructure\\Migrations\\20260102033135_Inicial.cs",
-              "RelativeToolTip": "Infrastructure\\Migrations\\20260102033135_Inicial.cs",
-              "ViewState": "AgIAAEkAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-02T03:31:35.509Z"
+              "WhenOpened": "2026-01-02T03:00:49.174Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 20,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\DESARM\\Desktop\\UNIVERSIDAD TESIS\\MATERIA 3\\proyectos\\proyecto1 - copia - copia\\cleanproyecto\\WebApi\\appsettings.json",
-              "RelativeDocumentMoniker": "WebApi\\appsettings.json",
-              "ToolTip": "C:\\Users\\DESARM\\Desktop\\UNIVERSIDAD TESIS\\MATERIA 3\\proyectos\\proyecto1 - copia - copia\\cleanproyecto\\WebApi\\appsettings.json",
-              "RelativeToolTip": "WebApi\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAB3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-01-02T03:25:25.515Z"
+              "Title": "IUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\DESARM\\Desktop\\UNIVERSIDAD TESIS\\MATERIA 3\\proyectos\\proyecto1v4\\cleanproyecto\\Domain\\Interfaces\\IUsuario.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IUsuario.cs",
+              "ToolTip": "C:\\Users\\DESARM\\Desktop\\UNIVERSIDAD TESIS\\MATERIA 3\\proyectos\\proyecto1v4\\cleanproyecto\\Domain\\Interfaces\\IUsuario.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IUsuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T02:15:17.036Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 21,
+              "Title": "IAgua.cs",
+              "DocumentMoniker": "C:\\Users\\DESARM\\Desktop\\UNIVERSIDAD TESIS\\MATERIA 3\\proyectos\\proyecto1v4\\cleanproyecto\\Domain\\Interfaces\\IAgua.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IAgua.cs",
+              "ToolTip": "C:\\Users\\DESARM\\Desktop\\UNIVERSIDAD TESIS\\MATERIA 3\\proyectos\\proyecto1v4\\cleanproyecto\\Domain\\Interfaces\\IAgua.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IAgua.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T02:15:56.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CrearUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\DESARM\\Desktop\\UNIVERSIDAD TESIS\\MATERIA 3\\proyectos\\proyecto1v4\\cleanproyecto\\Application\\UseCases\\CrearUsuario.cs",
+              "RelativeDocumentMoniker": "Application\\UseCases\\CrearUsuario.cs",
+              "ToolTip": "C:\\Users\\DESARM\\Desktop\\UNIVERSIDAD TESIS\\MATERIA 3\\proyectos\\proyecto1v4\\cleanproyecto\\Application\\UseCases\\CrearUsuario.cs",
+              "RelativeToolTip": "Application\\UseCases\\CrearUsuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T02:57:49.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CrearAgua.cs",
+              "DocumentMoniker": "C:\\Users\\DESARM\\Desktop\\UNIVERSIDAD TESIS\\MATERIA 3\\proyectos\\proyecto1v4\\cleanproyecto\\Application\\UseCases\\CrearAgua.cs",
+              "RelativeDocumentMoniker": "Application\\UseCases\\CrearAgua.cs",
+              "ToolTip": "C:\\Users\\DESARM\\Desktop\\UNIVERSIDAD TESIS\\MATERIA 3\\proyectos\\proyecto1v4\\cleanproyecto\\Application\\UseCases\\CrearAgua.cs",
+              "RelativeToolTip": "Application\\UseCases\\CrearAgua.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T02:57:56.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ZonaDefaultStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\DESARM\\Desktop\\UNIVERSIDAD TESIS\\MATERIA 3\\proyectos\\proyecto1v4\\cleanproyecto\\Application\\Strategies\\ZonaDefaultStrategy.cs",
+              "RelativeDocumentMoniker": "Application\\Strategies\\ZonaDefaultStrategy.cs",
+              "ToolTip": "C:\\Users\\DESARM\\Desktop\\UNIVERSIDAD TESIS\\MATERIA 3\\proyectos\\proyecto1v4\\cleanproyecto\\Application\\Strategies\\ZonaDefaultStrategy.cs",
+              "RelativeToolTip": "Application\\Strategies\\ZonaDefaultStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T21:24:14.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UsuarioStrategyFactory.cs",
+              "DocumentMoniker": "C:\\Users\\DESARM\\Desktop\\UNIVERSIDAD TESIS\\MATERIA 3\\proyectos\\proyecto1v4\\cleanproyecto\\Application\\Strategies\\UsuarioStrategyFactory.cs",
+              "RelativeDocumentMoniker": "Application\\Strategies\\UsuarioStrategyFactory.cs",
+              "ToolTip": "C:\\Users\\DESARM\\Desktop\\UNIVERSIDAD TESIS\\MATERIA 3\\proyectos\\proyecto1v4\\cleanproyecto\\Application\\Strategies\\UsuarioStrategyFactory.cs",
+              "RelativeToolTip": "Application\\Strategies\\UsuarioStrategyFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T20:56:36.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IValidacionUsuarioStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\DESARM\\Desktop\\UNIVERSIDAD TESIS\\MATERIA 3\\proyectos\\proyecto1v4\\cleanproyecto\\Application\\Strategies\\IValidacionUsuarioStrategy.cs",
+              "RelativeDocumentMoniker": "Application\\Strategies\\IValidacionUsuarioStrategy.cs",
+              "ToolTip": "C:\\Users\\DESARM\\Desktop\\UNIVERSIDAD TESIS\\MATERIA 3\\proyectos\\proyecto1v4\\cleanproyecto\\Application\\Strategies\\IValidacionUsuarioStrategy.cs",
+              "RelativeToolTip": "Application\\Strategies\\IValidacionUsuarioStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T20:54:10.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IValidacionAguaStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\DESARM\\Desktop\\UNIVERSIDAD TESIS\\MATERIA 3\\proyectos\\proyecto1v4\\cleanproyecto\\Application\\Strategies\\IValidacionAguaStrategy.cs",
+              "RelativeDocumentMoniker": "Application\\Strategies\\IValidacionAguaStrategy.cs",
+              "ToolTip": "C:\\Users\\DESARM\\Desktop\\UNIVERSIDAD TESIS\\MATERIA 3\\proyectos\\proyecto1v4\\cleanproyecto\\Application\\Strategies\\IValidacionAguaStrategy.cs",
+              "RelativeToolTip": "Application\\Strategies\\IValidacionAguaStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T21:25:12.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "GerenteStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\DESARM\\Desktop\\UNIVERSIDAD TESIS\\MATERIA 3\\proyectos\\proyecto1v4\\cleanproyecto\\Application\\Strategies\\GerenteStrategy.cs",
+              "RelativeDocumentMoniker": "Application\\Strategies\\GerenteStrategy.cs",
+              "ToolTip": "C:\\Users\\DESARM\\Desktop\\UNIVERSIDAD TESIS\\MATERIA 3\\proyectos\\proyecto1v4\\cleanproyecto\\Application\\Strategies\\GerenteStrategy.cs",
+              "RelativeToolTip": "Application\\Strategies\\GerenteStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T21:17:06.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ClienteStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\DESARM\\Desktop\\UNIVERSIDAD TESIS\\MATERIA 3\\proyectos\\proyecto1v4\\cleanproyecto\\Application\\Strategies\\ClienteStrategy.cs",
+              "RelativeDocumentMoniker": "Application\\Strategies\\ClienteStrategy.cs",
+              "ToolTip": "C:\\Users\\DESARM\\Desktop\\UNIVERSIDAD TESIS\\MATERIA 3\\proyectos\\proyecto1v4\\cleanproyecto\\Application\\Strategies\\ClienteStrategy.cs",
+              "RelativeToolTip": "Application\\Strategies\\ClienteStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T20:56:23.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AguaStrategyFactory.cs",
+              "DocumentMoniker": "C:\\Users\\DESARM\\Desktop\\UNIVERSIDAD TESIS\\MATERIA 3\\proyectos\\proyecto1v4\\cleanproyecto\\Application\\Strategies\\AguaStrategyFactory.cs",
+              "RelativeDocumentMoniker": "Application\\Strategies\\AguaStrategyFactory.cs",
+              "ToolTip": "C:\\Users\\DESARM\\Desktop\\UNIVERSIDAD TESIS\\MATERIA 3\\proyectos\\proyecto1v4\\cleanproyecto\\Application\\Strategies\\AguaStrategyFactory.cs",
+              "RelativeToolTip": "Application\\Strategies\\AguaStrategyFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T21:24:40.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AdminStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\DESARM\\Desktop\\UNIVERSIDAD TESIS\\MATERIA 3\\proyectos\\proyecto1v4\\cleanproyecto\\Application\\Strategies\\AdminStrategy.cs",
+              "RelativeDocumentMoniker": "Application\\Strategies\\AdminStrategy.cs",
+              "ToolTip": "C:\\Users\\DESARM\\Desktop\\UNIVERSIDAD TESIS\\MATERIA 3\\proyectos\\proyecto1v4\\cleanproyecto\\Application\\Strategies\\AdminStrategy.cs",
+              "RelativeToolTip": "Application\\Strategies\\AdminStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T20:56:04.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\DESARM\\Desktop\\UNIVERSIDAD TESIS\\MATERIA 3\\proyectos\\proyecto1v4\\cleanproyecto\\Application\\Mapping\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Application\\Mapping\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\DESARM\\Desktop\\UNIVERSIDAD TESIS\\MATERIA 3\\proyectos\\proyecto1v4\\cleanproyecto\\Application\\Mapping\\MappingProfile.cs",
+              "RelativeToolTip": "Application\\Mapping\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T02:49:06.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20260102033135_Inicial.cs",
+              "DocumentMoniker": "C:\\Users\\DESARM\\Desktop\\UNIVERSIDAD TESIS\\MATERIA 3\\proyectos\\proyecto1v4\\cleanproyecto\\Infrastructure\\Migrations\\20260102033135_Inicial.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20260102033135_Inicial.cs",
+              "ToolTip": "C:\\Users\\DESARM\\Desktop\\UNIVERSIDAD TESIS\\MATERIA 3\\proyectos\\proyecto1v4\\cleanproyecto\\Infrastructure\\Migrations\\20260102033135_Inicial.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20260102033135_Inicial.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T03:31:35.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
               "Title": "Domain.csproj",
-              "DocumentMoniker": "C:\\Users\\DESARM\\Desktop\\UNIVERSIDAD TESIS\\MATERIA 3\\proyectos\\proyecto1 - copia - copia\\cleanproyecto\\Domain\\Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\DESARM\\Desktop\\UNIVERSIDAD TESIS\\MATERIA 3\\proyectos\\proyecto1v4\\cleanproyecto\\Domain\\Domain.csproj",
               "RelativeDocumentMoniker": "Domain\\Domain.csproj",
-              "ToolTip": "C:\\Users\\DESARM\\Desktop\\UNIVERSIDAD TESIS\\MATERIA 3\\proyectos\\proyecto1 - copia - copia\\cleanproyecto\\Domain\\Domain.csproj",
+              "ToolTip": "C:\\Users\\DESARM\\Desktop\\UNIVERSIDAD TESIS\\MATERIA 3\\proyectos\\proyecto1v4\\cleanproyecto\\Domain\\Domain.csproj",
               "RelativeToolTip": "Domain\\Domain.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",

@@ -1,4 +1,5 @@
-﻿using Domain.Entities;
+﻿using Application.Strategies;
+using Domain.Entities;
 using Domain.Interfaces;
 using System;
 using System.Collections.Generic;
@@ -18,18 +19,11 @@ namespace Application.UseCases
         }
 
         public async Task EjecutarAsync(Usuario usuario)
-        {
-            ValidarUsuario(usuario);
+        {  
+            var strategy = UsuarioStrategyFactory.Crear(usuario.Rol ?? "");
+            strategy.Validar(usuario);
+
             await _usuario.Crear(usuario);
-        }
-
-        public void ValidarUsuario(Usuario usuario)
-        {
-            if (string.IsNullOrWhiteSpace(usuario.Nombre))
-                throw new ArgumentException("Existe un error en el nombre");
-
-            if (string.IsNullOrWhiteSpace(usuario.Rol))
-                throw new ArgumentException("Existe un error en el rol");
         }
     }
 }

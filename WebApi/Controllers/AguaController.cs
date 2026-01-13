@@ -1,4 +1,5 @@
-﻿using Application.DTOs;
+﻿using Application.Builders;
+using Application.DTOs;
 using Application.UseCases;
 using AutoMapper;
 using Domain.Entities;
@@ -47,7 +48,15 @@ namespace WebApi.Controllers
         {
             try
             {
-                var agua = _mapper.Map<Agua>(aguaDTO);
+                var agua = new AguaBuilder()
+                    .ConZona(aguaDTO.Zona)
+                    .ConValor(aguaDTO.Valor)
+                    .ConUsuario(aguaDTO.IdUsuario)
+                    .Build();
+
+
+                agua.Id = Guid.NewGuid();
+
                 await _crearAgua.EjecutarAsync(agua);
                 return CreatedAtAction(nameof(GetById), new { id = agua.Id }, aguaDTO);
             }

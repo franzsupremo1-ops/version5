@@ -8,6 +8,7 @@ namespace Application.DTOs
 {
     public class ReporteDTOs
     {
+        public Guid Id { get; set; }
         public string Titulo { get; set; } = string.Empty;
         public string Datos { get; set; } = string.Empty;
         public string Formato { get; set; } = "PDF";

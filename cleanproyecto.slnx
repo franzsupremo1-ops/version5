@@ -1,6 +1,10 @@
 <Solution>
   <Project Path="Application/Application.csproj" />
   <Project Path="Domain/Domain.csproj" />
+  <Project Path="FrionendReact/frionendreact.esproj">
+    <Build />
+    <Deploy />
+  </Project>
   <Project Path="Infrastructure/Infrastructure.csproj" />
   <Project Path="WebApi/WebApi.csproj" />
 </Solution>

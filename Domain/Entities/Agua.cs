@@ -11,7 +11,7 @@ namespace Domain.Entities
         public Guid Id { get; set; }
         public string Zona { get; set; } = string.Empty;
         public int Valor { get; set; }
-        public string Unidad { get; set; } = "m³";
+        public string Unidad { get; set; } = "m3";
         public Guid IdUsuario { get; set; }
         public Usuario? Usuario { get; set; }
     }

@@ -332,9 +332,42 @@
   },
   "components": {
     "schemas": {
+      "Agua": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string",
+            "format": "uuid"
+          },
+          "zona": {
+            "type": "string",
+            "nullable": true
+          },
+          "valor": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "unidad": {
+            "type": "string",
+            "nullable": true
+          },
+          "idUsuario": {
+            "type": "string",
+            "format": "uuid"
+          },
+          "usuario": {
+            "$ref": "#/components/schemas/Usuario"
+          }
+        },
+        "additionalProperties": false
+      },
       "AguaDTOs": {
         "type": "object",
         "properties": {
+          "id": {
+            "type": "string",
+            "format": "uuid"
+          },
           "zona": {
             "type": "string",
             "nullable": true
@@ -376,10 +409,10 @@
             "type": "string",
             "nullable": true
           },
-          "usuarios": {
+          "aguas": {
             "type": "array",
             "items": {
-              "$ref": "#/components/schemas/Usuario"
+              "$ref": "#/components/schemas/Agua"
             },
             "nullable": true
           }
@@ -389,6 +422,10 @@
       "UsuarioDTOs": {
         "type": "object",
         "properties": {
+          "id": {
+            "type": "string",
+            "format": "uuid"
+          },
           "nombre": {
             "type": "string",
             "nullable": true
