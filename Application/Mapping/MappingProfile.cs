@@ -9,22 +9,22 @@ namespace Application.Mapping
     {
         public MappingProfile()
         {
-            // Usuario
+            
             CreateMap<Usuario, UsuarioDTOs>().ReverseMap();
 
-            // Agua
+            
             CreateMap<Agua, AguaDTOs>()
                 .ForMember(dest => dest.IdUsuario, opt => opt.MapFrom(src => src.IdUsuario))
                 .ReverseMap();
 
-            // Reporte
+           
             CreateMap<Reporte, ReporteDTOs>()
                 .ForMember(dest => dest.IdUsuario, opt => opt.MapFrom(src => src.UsuarioId))
                 .ReverseMap();
 
-            ShouldMapMethod = m => false;  // ← Agregar esta línea
+            ShouldMapMethod = m => false;  
 
-            // resto mappings...
+            
         }
     }
 }
