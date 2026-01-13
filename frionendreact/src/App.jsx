@@ -5,7 +5,7 @@ function App() {
     
     const [aguas, setAguas] = useState([]);
     const [usuarios, setUsuarios] = useState([]);
-    const [reportes, setReportes] = useState([]);  // ✅ NUEVO
+    const [reportes, setReportes] = useState([]);  
     const [nuevaAgua, setNuevaAgua] = useState({ zona: '', valor: 0, idUsuario: '', unidad: 'm³' });
     const [nuevoUsuario, setNuevoUsuario] = useState({ nombre: '', apellido: '', rol: '' });
     const [mensaje, setMensaje] = useState('');
@@ -30,7 +30,7 @@ function App() {
             .catch(() => setMensaje('Error usuarios'));
     }, []);
 
-    // ✅ NUEVO: Cargar reportes (solo lectura)
+    
     useEffect(() => {
         fetch(`${API_BASE}/api/Reporte`)
             .then(response => response.json())
@@ -66,7 +66,7 @@ function App() {
                 setMensaje('Agua creada');
             }
 
-            // ✅ ACTUALIZAR TODO SIN REFRESCO VISUAL
+           
             const [aguasData, usuariosData, reportesData] = await Promise.all([
                 fetch(`${API_BASE}/api/Agua`).then(r => r.json()),
                 fetch(`${API_BASE}/api/Usuario`).then(r => r.json()),
@@ -112,7 +112,7 @@ function App() {
                 setMensaje('Usuario creado');
             }
 
-            // ✅ ACTUALIZAR TODO SIN REFRESCO VISUAL
+            
             const [aguasData, usuariosData, reportesData] = await Promise.all([
                 fetch(`${API_BASE}/api/Agua`).then(r => r.json()),
                 fetch(`${API_BASE}/api/Usuario`).then(r => r.json()),
@@ -134,7 +134,7 @@ function App() {
         try {
             await fetch(`${API_BASE}/api/Agua/${id}`, { method: 'DELETE' });
 
-            // ✅ ACTUALIZAR TODO SIN REFRESCO VISUAL
+           
             const [aguasData, usuariosData, reportesData] = await Promise.all([
                 fetch(`${API_BASE}/api/Agua`).then(r => r.json()),
                 fetch(`${API_BASE}/api/Usuario`).then(r => r.json()),
@@ -153,7 +153,7 @@ function App() {
         try {
             await fetch(`${API_BASE}/api/Usuario/${id}`, { method: 'DELETE' });
 
-            // ✅ ACTUALIZAR TODO SIN REFRESCO VISUAL
+            
             const [aguasData, usuariosData, reportesData] = await Promise.all([
                 fetch(`${API_BASE}/api/Agua`).then(r => r.json()),
                 fetch(`${API_BASE}/api/Usuario`).then(r => r.json()),
@@ -171,10 +171,10 @@ function App() {
         const jsPDF = (await import('jspdf')).default;
         const autoTable = (await import('jspdf-autotable')).default;
 
-        const doc = new jsPDF('l', 'mm'); // Landscape
+        const doc = new jsPDF('l', 'mm'); 
         doc.text('Reporte de Reportes', 14, 20);
 
-        // ✅ MISMA LÓGICA EXACTA DE TU TABLA REPORTES
+        
         const tableData = reportes.map(reporte => {
             const usuario = usuarios.find(u => String(u.id) === String(reporte.idUsuario));
             const agua = aguas.find(a => String(a.id) === String(reporte.id));
@@ -196,12 +196,12 @@ function App() {
             head: [['ID Reporte', 'ID Usuario', 'Usuario', 'Zona Agua', 'Valor Agua', 'Unidad']],
             body: tableData,
             startY: 30,
-            margin: { top: 30, left: 5, right: 5 }, // ✅ Márgenes mínimos
+            margin: { top: 30, left: 5, right: 5 }, 
             styles: {
                 fontSize: 9,
                 cellPadding: 4,
                 overflow: 'linebreak',
-                halign: 'left' // ✅ IZQUIERDA como tu tabla HTML
+                halign: 'left' 
             },
             headStyles: {
                 fillColor: [41, 128, 185],
@@ -209,14 +209,14 @@ function App() {
                 fontStyle: 'bold',
                 fontSize: 10
             },
-            tableWidth: 285, // ✅ ANCHO TOTAL landscape (297mm - 12mm márgenes)
+            tableWidth: 285, 
             columnStyles: {
-                0: { cellWidth: 48 }, // ID Reporte
-                1: { cellWidth: 48 }, // ID Usuario
-                2: { cellWidth: 48 }, // Usuario
-                3: { cellWidth: 42 }, // Zona
-                4: { cellWidth: 42 }, // Valor
-                5: { cellWidth: 57 }  // Unidad (resto del espacio)
+                0: { cellWidth: 48 }, 
+                1: { cellWidth: 48 }, 
+                2: { cellWidth: 48 }, 
+                3: { cellWidth: 42 }, 
+                4: { cellWidth: 42 }, 
+                5: { cellWidth: 57 }  
             }
         });
 
@@ -314,7 +314,7 @@ function App() {
             </div>
 
             
-            {/* ✅ TABLA REPORTES CON ID USUARIO + DATOS */}
+            
             <h2>Reportes</h2>
             <div style={{ marginBottom: '10px' }}>
                 <button
