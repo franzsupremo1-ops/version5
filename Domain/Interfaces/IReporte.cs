@@ -7,10 +7,10 @@ using System.Threading.Tasks;
 
 namespace Domain.Interfaces
 {
-    public interface IReporte  // ← Renombra a IUsuarioRepository si quieres
+    public interface IReporte  
     {
-        Task<IEnumerable<Agua>> All();  // ← AGUA completa
-        Task<Agua> ObtenerId(Guid id);  // ← AGREGAR ESTE MÉTODO
+        Task<IEnumerable<Agua>> All();  
+        Task<Agua> ObtenerId(Guid id);  
         
     }
 }
