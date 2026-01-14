@@ -14,6 +14,9 @@ namespace Application.Strategies
             if (string.IsNullOrWhiteSpace(usuario.Nombre))
                 throw new ArgumentException("Admin: Nombre requerido");
 
+            if (string.IsNullOrWhiteSpace(usuario.Nombre))
+                throw new ArgumentException("Admin: Nombre requerido");
+
             if (usuario.Nombre.Length < 3)
                 throw new ArgumentException("Admin: Nombre mínimo 3 caracteres");
 
